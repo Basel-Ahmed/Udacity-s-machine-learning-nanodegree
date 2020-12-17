@@ -1,7 +1,7 @@
 # Udacity-s-machine-learning-nanodegree
 This repository contains projects for [Udacity's machine learning nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), and these projects are
 
--  [Deployment of sentiment analysis model for movie review]()
+-  [Deployment of sentiment analysis model for movie review](https://github.com/Basel-Ahmed/Udacity-s-machine-learning-nanodegree/tree/main/ML-deploy-sentiment-analysis-model-project/Project)
     - Build and deploy a deep learning model that predicts the sentiment of a user-provided movie review using Amazon SageMaker.
       In addition, create a simple web app that uses your deployed model and accepts user input.
     
